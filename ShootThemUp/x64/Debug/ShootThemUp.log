@@ -1,0 +1,27 @@
+﻿  Game.cpp
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(15,72): warning C4244: 'argument' : conversion de '_Rep' en 'unsigned int', perte possible de données
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(15,72): warning C4244:         with
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(15,72): warning C4244:         [
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(15,72): warning C4244:             _Rep=__int64
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(15,72): warning C4244:         ]
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(378,41): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(378,41): warning C4244:         with
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(378,41): warning C4244:         [
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(378,41): warning C4244:             T=unsigned int
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(378,41): warning C4244:         ]
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(387,37): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(387,37): warning C4244:         with
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(387,37): warning C4244:         [
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(387,37): warning C4244:             T=unsigned int
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(387,37): warning C4244:         ]
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(396,41): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(396,41): warning C4244:         with
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(396,41): warning C4244:         [
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(396,41): warning C4244:             T=unsigned int
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Game.cpp(396,41): warning C4244:         ]
+  Menu.cpp
+D:\STUp-Thomas-Noa-main\ShootThemUp\ShootThemUp\Menu.cpp(11,42): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours...
+  ShootThemUp.vcxproj -> D:\STUp-Thomas-Noa-main\ShootThemUp\x64\Debug\ShootThemUp.exe
+  'pwsh.exe' n'est pas reconnu en tant que commande interne
+  ou externe, un programme exécutable ou un fichier de commandes.
